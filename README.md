@@ -1,7 +1,7 @@
 # 👋 Hi, I am Michel.
 
 I’m a passionate Full-Stack Software Engineer with over 17 years of professional experience.  
-💻 I work with JavaScript, TypeScript, Python, Java, Go, C++, and am always eager to explore new technologies and paradigms.
+💻 I work with TypeScript, Python, and Go for 80% of my time and with other languages for the rest. I am always eager to explore new technologies and paradigms.
 
 As a true generalist, I’ve contributed to projects across diverse industries including healthcare, government, IoT, e-commerce, and business intelligence. My experience spans building scalable web applications, architecting backend services, and developing complex system integrations.
 
