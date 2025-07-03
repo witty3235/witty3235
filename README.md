@@ -6,14 +6,14 @@ I love working with data—handling, processing, and bringing it to life through
 
 But lately, my biggest adventure is diving deep into AI and blockchain—exploring, experimenting, and building at the frontier where intelligence meets decentralization. It’s an exciting time and my favorite playground for innovation.
 
-🚀 Adept at both frontend and backend development
-📊 Passionate about data handling, visualization, and 3D graphics
-🗃️ Deep experience building ERP and CRM systems
-🔌 Skilled in API development and integration
-⚖️ Familiar with regulated domains and compliance
-🤖 Currently exploring, learning, and building with AI and blockchain
-🤝 Collaborative team player and effective communicator
-🛠️ Advocate for clean code, best practices, and continuous learning
+- 🚀 Adept at both frontend and backend development
+- 📊 Passionate about data handling, visualization, and 3D graphics
+- 🗃️ Deep experience building ERP and CRM systems
+- 🔌 Skilled in API development and integration
+- ⚖️ Familiar with regulated domains and compliance
+- 🤖 Currently exploring, learning, and building with AI and blockchain
+- 🤝 Collaborative team player and effective communicator
+- 🛠️ Advocate for clean code, best practices, and continuous learning
 
 Always ready for the next adventure—let’s build something great together!
 
