@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I am Michel.
 
-<!--
-**witty3235/witty3235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate Full-Stack Software Engineer with over 17 years of professional experience.  
+💻 I work with JavaScript, TypeScript, Python, Java, Go, C++, and am always eager to explore new technologies and paradigms.
 
-Here are some ideas to get you started:
+As a true generalist, I’ve contributed to projects across diverse industries including healthcare, government, IoT, e-commerce, and business intelligence. My experience spans building scalable web applications, architecting backend services, and developing complex system integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Adept at both frontend and backend development
+- 🏥 Experience in regulated and high-impact domains
+- 🔍 Quick to learn, adapt, and deliver in dynamic environments
+- 🤝 Collaborative team player and effective communicator
+- 🛠️ Advocate for clean code, best practices, and continuous learning
+
+I’m always open to exciting problems, innovative projects, and collaboration opportunities.  
+Let’s build something great together!
+
+---
