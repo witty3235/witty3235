@@ -1,17 +1,24 @@
-# 👋 Hi, I am Michel.
+# 👋 Hi, I’m Michel.
 
-I’m a passionate Full-Stack Software Engineer with over 17 years of professional experience.  
-💻 I work with TypeScript, Python, and Go for 80% of my time and with other languages for the rest. I am always eager to explore new technologies and paradigms.
+I've been coding ever since I can remember—if there's a language, I've probably tinkered with it! My main toolkit features TypeScript, Python, Go, and Java (with occasional forays into C#, C++, and Rust). I’m always on the hunt for new frameworks, tools, and creative coding challenges.
 
-As a true generalist, I’ve contributed to projects across diverse industries including healthcare, government, IoT, e-commerce, and business intelligence. My experience spans building scalable web applications, architecting backend services, and developing complex system integrations.
+I love working with data—handling, processing, and bringing it to life through visualization. My journey spans building scalable web apps, architecting backend services, developing complex system integrations, and creating robust APIs. I’ve crafted ERP and CRM solutions for all kinds of industries, and I know my way around regulatory compliance.
 
-- 🚀 Adept at both frontend and backend development
-- 🏥 Experience in regulated and high-impact domains
-- 🔍 Quick to learn, adapt, and deliver in dynamic environments
-- 🤝 Collaborative team player and effective communicator
-- 🛠️ Advocate for clean code, best practices, and continuous learning
+But lately, my biggest adventure is diving deep into AI and blockchain—exploring, experimenting, and building at the frontier where intelligence meets decentralization. It’s an exciting time and my favorite playground for innovation.
 
-I’m always open to exciting problems, innovative projects, and collaboration opportunities.  
-Let’s build something great together!
+🚀 Adept at both frontend and backend development
+📊 Passionate about data handling, visualization, and 3D graphics
+🗃️ Deep experience building ERP and CRM systems
+🔌 Skilled in API development and integration
+⚖️ Familiar with regulated domains and compliance
+🤖 Currently exploring, learning, and building with AI and blockchain
+🤝 Collaborative team player and effective communicator
+🛠️ Advocate for clean code, best practices, and continuous learning
 
----
+Always ready for the next adventure—let’s build something great together!
+
+Contact ME:
+
+mroussel1980@gmail.com
+
+[Linkedin](https://www.linkedin.com/in/michel-dubois-prog/)
