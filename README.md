@@ -22,3 +22,8 @@ Contact ME:
 mroussel1980@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/michel-dubois-prog/)
+
+## My Badges
+
+![SkillFront Entrepreneur Program™: Foundations Of Business And Entrepreneurship™](https://www.skillfront.com/badge-files/79843050572833.png)
+
