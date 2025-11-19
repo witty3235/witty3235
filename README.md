@@ -23,6 +23,8 @@ mroussel1980@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/michel-dubois-prog/)
 
+<a href="https://app.daily.dev/witty3235"><img src="https://api.daily.dev/devcards/v2/QdUai7T1VSoa8LYV8LjlQ.png?r=1n3&type=default" width="356" alt="M. D.'s Dev Card"/></a>
+
 ## My Badges
 
 [Credly Profile](https://www.credly.com/users/michel-dubois.cd7b7468)
