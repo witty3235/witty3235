@@ -31,3 +31,5 @@ mroussel1980@gmail.com
 
 ![SkillFront Entrepreneur Program™: Foundations Of Business And Entrepreneurship™](https://www.skillfront.com/badge-files/79843050572833.png)
 
+![Daily Dev - Top Reader](https://media.daily.dev/image/upload/s--N7MXmTRI--/f_auto/v1772331309/top_reader_badge/edad284a-6744-4347-baa8-73c4a9268517?_a=BAMAMiiu0)
+
